@@ -1,0 +1,49 @@
+Dateiverzeichnis:
+=================
+
+Projekt:           FASENS
+Messungen:         Laservibrometer, optisch
+Objekt:            resonanter Quarz-Drucksensor
+Chip:              Typ: Langloch 3N
+Kunde:             MotoMeter GmbH, Leonberg
+Ansprechpartner:   Herr W.Hartig
+Operator:          Th.Fabula, HSG-IMIT
+Datum:             Mi. 17.02.93
+
+
+Datenträger in Laufwerk F ist SYS
+Datenträgernummer: 2EEF-7CD9
+Verzeichnis von F:\TAUSCH\TOM
+
+Amplitudenmessungen (Bestimmung von f, A, Q)
+MM3N1    DSA     14735 17.02.93   15:10
+MM3N2    DSA     14335 17.02.93   15:15
+MM3N3    DSA     14335 17.02.93   15:19
+MM3N4    DSA     14335 17.02.93   15:29
+MM3N5    DSA     14335 17.02.93   15:31
+MM3N6    DSA     14334 17.02.93   15:36
+
+Radiale Modenverteilung: Langloch (quer)
+MM3NQ1   DSA     14349 17.02.93   15:51  (Ort: x = 0,0  mm)
+MM3NQ2   DSA     14349 17.02.93   15:52  (Ort: x = 0,0  mm)
+MM3NQ3   DSA     14349 17.02.93   15:53  (Ort: x = 0,25 mm)
+MM3NQ4   DSA     14349 17.02.93   15:53  (Ort: x = 0,75 mm)
+MM3NQ5   DSA     14349 17.02.93   15:54  (Ort: x = 1,25 mm)
+MM3NQ6   DSA     14349 17.02.93   15:54  (Ort: x = 1,75 mm)
+MM3NQ7   DSA     14349 17.02.93   15:55  (Ort: x = 2,25 mm)
+MM3NQ8   DSA     14349 17.02.93   15:56  (Ort: x = 2,75 mm)
+MM3NQ9   DSA     14349 17.02.93   15:57  (Ort: x = 3,25 mm)
+MM3NQ10  DSA     14349 17.02.93   15:57  (Ort: x = 4,00 mm)
+
+Radiale Modenverteilung: Langloch (laengs)
+MM3NR1   DSA     14343 17.02.93   15:42   (Ort: x = 0,0 mm)
+MM3NR2   DSA     14343 17.02.93   15:43   (Ort: x = 0,5 mm)
+MM3NR3   DSA     14343 17.02.93   15:43   (Ort: x = 1,0 mm)
+MM3NR4   DSA     14343 17.02.93   15:44   (Ort: x = 1,5 mm)
+MM3NR5   DSA     14343 17.02.93   15:44   (Ort: x = 2,0 mm)
+MM3NR6   DSA     14343 17.02.93   15:45   (Ort: x = 2,5 mm)
+MM3NR7   DSA     14343 17.02.93   15:46   (Ort: x = 3,0 mm)
+MM3NR8   DSA     14343 17.02.93   15:47   (Ort: x = 3,5 mm)
+MM3NR9   DSA     14343 17.02.93   15:48   (Ort: x = 4,0 mm)
+MM3NR10  DSA     14343 17.02.93   15:49   (Ort: x = 4,5 mm)
+       26 Datei(en)     373329 Byte
