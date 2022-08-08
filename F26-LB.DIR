@@ -1,0 +1,38 @@
+Messprotokoll:  (Datei: F26-LB.DIR)
+==============
+
+FASENS (Wafer 2.6)
+Chips fuer Krafteinleitung (geklebt, laser gebohrt, gebondet)
+DROSO5, Chip: 48/54
+SchwingungsgÅte:  Q = 32
+Verzeichnis von F:\TOM\MESSUNG\KRAFTLB.FAS
+
+
+Elektrische Anregung und Abtastung mit SA:
+------------------------------------------
+F26-EA01 DSA     14751 12.03.93   15:17
+F26-EA02 DSA     14751 12.03.93   15:20
+F26-EA03 DSA     14754 12.03.93   15:27
+F26-EA04 DSA     14754 12.03.93   15:40
+
+
+Optische Abtastung mit POLYTEC-LV:
+----------------------------------
+F26-LBA1 DSA     14380 12.03.93   13:37
+F26-LBA2 DSA     14380 12.03.93   13:42
+F26-LBA3 DSA     14380 12.03.93   13:44
+F26-LBA4 DSA     14380 12.03.93   13:47
+F26-LBA5 DSA     14378 12.03.93   13:55
+F26-LBA6 DSA     14380 12.03.93   14:06
+F26-LBA7 DSA     14381 12.03.93   14:12
+F26-LBA8 DSA     14378 12.03.93   14:13
+F26-LBA9 DSA     14376 12.03.93   14:16
+F26-LA10 DSA     14374 12.03.93   14:29
+F26-LA11 DSA     14374 12.03.93   14:32
+F26-LA12 DSA     14365 12.03.93   14:34
+F26-LA13 DSA     14359 12.03.93   14:36
+F26-LA14 DSA     14354 12.03.93   14:40
+F26-LA15 DSA     14355 12.03.93   14:42
+F26-LA16 DSA     14359 12.03.93   14:46
+       22 Datei(en)     290148 Byte
+                      29335552 Byte frei
