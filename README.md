@@ -4,7 +4,7 @@
 - FASENS = Frequenzanaloge Sensoren
 - Messprotokolle: optische POLYTEC
 - elektrische Impedanz/GAIN-PHASE Messungen
-- an Silizium-Strukturen 
+- an Silizium-Strukturen (Silicon, ZnO, Piezo, PZT)
 
 ## Further information
 - https://tfconsult.com/tag/bmft/
