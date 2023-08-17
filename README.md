@@ -4,7 +4,7 @@
 - FASENS = Frequenzanaloge Sensoren
 
 ## Messprotokolle 
-- optische POLYTEC Messungen
+- optische Messungen, POLYTEC Laservibrometer
 - elektrische Impedanz/GAIN-PHASE Messungen
 - an Silizium-Strukturen (Silicon, ZnO, Piezo, PZT)
 
