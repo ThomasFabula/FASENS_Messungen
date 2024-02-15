@@ -2,9 +2,11 @@
 
 ## FASENS
 - FASENS = Frequenzanaloge Sensoren
+- Resonante Druck- und Kraft-Sensoren
+- mit piezoelektrischem Antrieb (ZnO-Dünnschicht, PZT-Keramik)  
 
 ## Messprotokolle 
-- optische Messungen, POLYTEC Laservibrometer
+- optische Messungen mit POLYTEC-Laservibrometer
 - elektrische Impedanz/GAIN-PHASE Messungen
 - an Silizium-Strukturen (Silicon, ZnO, Piezo, PZT)
 
