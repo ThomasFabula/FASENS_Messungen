@@ -1,6 +1,7 @@
 # FASENS_Messungen
 
 ## FASENS
+- BMFT-Verbundprojekt
 - FASENS = Frequenzanaloge Sensoren
 - Resonante Druck- und Kraft-Sensoren
 - mit piezoelektrischem Antrieb (ZnO-Dünnschicht, PZT-Keramik)  
