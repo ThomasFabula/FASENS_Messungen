@@ -9,7 +9,7 @@
 ## Messprotokolle 
 - optische Messungen mit POLYTEC-Laservibrometer: https://www.polytec.com/de
 - elektrische Impedanz/GAIN-PHASE Messungen: https://www.keysight.com/us/en/product/4194A/impedancegainphase-analyzer.html
-- an Silizium-Strukturen (Silicon, ZnO, Piezo, PZT)
+- an piezoelektrisch angeregten Silizium-Strukturen (Silicon, ZnO, Piezo, PZT)
 
 ## Further information
 - https://tfconsult.com/tag/bmft/
