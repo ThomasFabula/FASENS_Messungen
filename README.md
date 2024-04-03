@@ -1,13 +1,13 @@
 # FASENS_Messungen
 
 ## FASENS
-- BMFT-Verbundprojekt
+- BMFT-Verbundprojekt mit Verbundpartnern 
 - FASENS = Frequenzanaloge Sensoren
 - Resonante Druck- und Kraft-Sensoren
 - mit piezoelektrischem Antrieb (ZnO-Dünnschicht, PZT-Keramik)  
 
 ## Messprotokolle 
-- optische Messungen mit POLYTEC-Laservibrometer(OFV1102 HR): https://www.polytec.com/de
+- optische Messungen mit POLYTEC-Laservibrometer (OFV1102 HR): https://www.polytec.com/de
 - elektrische Impedanz/GAIN-PHASE Messungen: https://www.keysight.com/us/en/product/4194A/impedancegainphase-analyzer.html
 - an piezoelektrisch angeregten Silizium-Strukturen (Silicon, ZnO, Piezo, PZT)
 
