@@ -1,11 +1,12 @@
-Messprotokoll: (Datei: MESSPRT.IMP)
+Messprotokoll: 
 ==============
+Datei: MESSPRT.IMP
+Datum: 11.03.1993
 
 Impedanzmessungen an FASENS-Wafern: 2.22, 2.24
 Operator: Thomas Fabula
 
-- Ermittlung der Resonanzfrequenzen
-  (fs, fp : Serien-, Parallelresonanzfrequenz [kHz])
+- Ermittlung der Resonanzfrequenzen (fs, fp : Serien-, Parallelresonanzfrequenz [kHz])
 - Berechnung: eff. elektromech. Kopplungsfaktor: keff = 2(fp - fs)/fp
 - Impedanz- und Phasenverhalten bei allen Messungen nur schwach ausgeprägt
 
@@ -20,7 +21,6 @@ f222d2_2.IGP   11.03.93   20:42:14
 Impedanzmessung: fs=27.913, fp=28.017, keff = 8.6 %
 DROSO2, 48/57, Wafer aufliegend, linker Pad
 
-
 f222d6_1.IGP   11.03.93   20:06:09
 Impedanzmessung, fs=26.260, fp=26.325, keff = 7.0 %
 DROSO6, 49/54, Wafer aufliegend, rechter Pad
@@ -33,7 +33,6 @@ f222d6_3.IGP   11.03.93   20:15:43
 Impedanzmessung: fs=26.265, fp=26.305, keff = 5.5 %
 DROSO6, 49/54, Wafer aufliegend, linker Pad
 
-
 f222d9_1.IGP   11.03.93   20:23:53
 Impedanzmessung, fs=28.255, fp=28.345, keff = 8.0 %
 DROSO9, 50/55, Wafer aufliegend, linker Pad
@@ -42,12 +41,9 @@ f222d9_2.IGP   11.03.93   20:29:45
 Impedanzmessung, fs=28.283, fp=28.367, keff = 7.7 %
 DROSO9, 50/55, Wafer aufliegend, rechter Pad
 
-
 f222m2_a.IGP   11.03.93   19:54:07
 Impedanzmessung, fs=21.738, fp=21.980, keff = 14.8 %
 MEM2,50/58i, Wafer aufliegend, ZE
-
-
 
 
 WAFER: 2.24
