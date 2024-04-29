@@ -1,10 +1,10 @@
 # FASENS_Messungen
 
 ## FASENS
-- BMFT-Verbundprojekt mit Verbundpartnern 
-- FASENS = Frequenzanaloge Sensoren
-- Resonante Druck- und Kraft-Sensoren
-- mit piezoelektrischem Antrieb (ZnO-Dünnschicht, PZT-Keramik)  
+- Gegenstand: BMFT-Verbundprojekt mit Verbundpartnern 
+- Begriffsdefinition: FASENS = Frequenzanaloge Sensoren
+- Sensorarten: Resonante Druck- und Kraft-Sensoren, Strömung, etc.
+- Anregung: piezoelektrischer Antrieb (ZnO-Dünnschicht, PZT-Keramik, bzw. Quarz-Technologie)  
 
 ## Messprotokolle 
 - optische Messungen mit POLYTEC-Laservibrometer (OFV1102 HR): https://www.polytec.com/de
@@ -19,3 +19,4 @@
 - https://tfconsult.com/experimentelle-verifikation/
 - https://tfconsult.com/verbundforschung-frequenzanaloge-sensoren/
 - https://tfconsult.com/schwingungsmessung-an-mikromechanischen-bauelementen/
+  
