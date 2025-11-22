@@ -8,7 +8,8 @@
 
 ## Messprotokolle 
 - optische Messungen mit POLYTEC-Laservibrometer (OFV1102 HR): https://www.polytec.com/de
-- elektrische Impedanz/GAIN-PHASE Messungen: https://www.keysight.com/us/en/product/4194A/impedancegainphase-analyzer.html
+- elektrische Impedanz/GAIN-PHASE Messungen: HP4194A Impedance/Gain-Phase Analyzer
+- https://www.keysight.com/us/en/product/4194A/impedancegainphase-analyzer.html
 - an piezoelektrisch angeregten Silizium-Strukturen (Silicon)
 - mit Hilfe piezoelektrischer Dünnschichten (ZnO) und Piezo-Keramiken (PZT)
 
