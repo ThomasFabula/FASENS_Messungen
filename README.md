@@ -3,7 +3,7 @@
 ## FASENS
 - Gegenstand: BMFT-Verbundprojekt mit Verbundpartnern 
 - Begriffsdefinition: FASENS := FrequenzAnaloge SENSoren
-- Sensorarten: Resonante Druck- und Kraft-Sensoren, Strömung, etc.
+- Sensorarten: Resonante Druck- und Kraft-, Strömungs-Sensoren, etc.
 - Anregung: piezoelektrischer Antrieb (ZnO-Dünnschicht, PZT-Keramik bzw. Quarz-Technologie)  
 
 ## Messprotokolle 
