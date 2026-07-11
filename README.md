@@ -23,7 +23,7 @@ These setups were crucial for experimental verification of the resonant behavior
 - Publications and FEM modeling work on beam-on-diaphragm structures, mode coupling, piezoelectric coupling factors, etc.
 - Contributed to microsystem technology (MST) transfer to industry.
 
-## FASENS
+## FASENS (deutsch)
 - Gegenstand: BMFT-Verbundprojekt mit Verbundpartnern 
 - Begriffsdefinition: FASENS := FrequenzAnaloge SENSoren
 - Sensorarten: Resonante Druck- und Kraft-, Strömungs-Sensoren, etc.
